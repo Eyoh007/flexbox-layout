@@ -1,4 +1,7 @@
 # FlexboxLayout
+dependencies {
+    implementation 'com.google.android.flexbox:flexbox:3.0.0'
+}
 [ ![Circle CI](https://circleci.com/gh/google/flexbox-layout.svg?style=shield&circle-token=2a42716dfffab73d73c5ce7ed7b3ee620cfa137b) ](https://circleci.com/gh/google/flexbox-layout/tree/main)
 
 FlexboxLayout is a library project which brings the similar capabilities of
